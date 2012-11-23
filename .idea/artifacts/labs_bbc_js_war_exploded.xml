@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="labs-bbc-js:war exploded">
+    <output-path>$PROJECT_DIR$/target/labs-bbc-js</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="labs-bbc-js/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="labs-bbc-js" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

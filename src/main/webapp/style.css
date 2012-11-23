@@ -683,3 +683,8 @@ a:focus {
     font-size: medium;
     text-align: center;
 }
+
+.small {
+    font-size: x-small;
+    text-align: center;
+}
